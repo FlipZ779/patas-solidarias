@@ -77,16 +77,6 @@ O site foi desenvolvido utilizando tecnologias modernas de desenvolvimento web:
 
 ---
 
-# 📷 Preview do Projeto
-
-*(Aqui você pode adicionar uma imagem do site depois)*
-
-Exemplo:
-
-![preview do site](./public/preview.png)
-
----
-
 #  Como executar o projeto
 
 Clone o repositório:
