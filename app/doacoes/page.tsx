@@ -1,12 +1,12 @@
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
+import Donations from "@/components/Donations";
 
 export default function Home() {
   return (
     <div>
       <Header></Header>
-      <Hero></Hero>
+      <Donations/>
       <Footer></Footer>
     </div>
   );
