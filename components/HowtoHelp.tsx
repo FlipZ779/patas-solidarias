@@ -14,7 +14,7 @@ export default function HowtoHelp() {
       title: "ONG",
       description:
         "Você pode ajudar de outras formas, com um lar temporário ou até mesmo com uma adoção!",
-      icon: "/img/polly.jpg",
+      icon: "/img/Polly.jpg",
       link: "https://www.instagram.com/ongpolly.caesegatos/",
     },
 
@@ -22,8 +22,8 @@ export default function HowtoHelp() {
       title: "Divulgue",
       description:
         "Você também pode compartilhar o projeto com seus amigos e conhecidos, fazendo com que alcancemos muito mais visibilidade!",
-      icon: "/img/polly.jpg",
-      link: "https://www.instagram.com/ongpolly.caesegatos/",
+      icon: "/img/paw-print.png",
+      link: "https://patas-solidarias.vercel.app/",
       isShareable: true,
     },
   ];
@@ -56,7 +56,8 @@ export default function HowtoHelp() {
           ))}
           <div className="flex items-center justify-center w-full h-full">
           <Image
-            src="/img/gato.png"
+          className="object-contain"
+            src="/img/Gato.png"
             alt="Gato desenhado a linhas"
             height={300}
             width={300}

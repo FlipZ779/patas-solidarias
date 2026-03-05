@@ -48,8 +48,8 @@ export default function HelpCard({
           <Image
             src={icon}
             alt={title}
-            width={48}
-            height={48}
+            width={45}
+            height={45}
             className="object-contain"
           />
         )}

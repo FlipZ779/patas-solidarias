@@ -16,9 +16,9 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-4">Navegação</h4>
           <ul className="space-y-2 text-white/70">
-            <li><a href="#sobre" className="hover:text-white">Sobre</a></li>
-            <li><a href="#doacoes" className="hover:text-white">Doações</a></li>
-            <li><a href="#como-ajudar" className="hover:text-white">Como Ajudar</a></li>
+            <li><a href="/sobre" className="hover:text-white">Sobre</a></li>
+            <li><a href="/doacoes" className="hover:text-white">Doações</a></li>
+            <li><a href="/como-ajudar" className="hover:text-white">Como Ajudar</a></li>
           </ul>
         </div>
 

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Patas Solidárias",
-  description: "Projeto de Extensão Academico",
+  description: "Projeto de arrecadação de ração para animais resgatados.",
 };
 
 export default function RootLayout({
