@@ -34,7 +34,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/20 mt-10 pt-6 text-center text-white/50 text-sm">
-        © 2026 Patas Solidárias. Todos os direitos reservados.
+        © 2026 Patas Solidárias • Projeto solidário de arrecadação de ração.
       </div>
     </footer>
   )

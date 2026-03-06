@@ -31,7 +31,7 @@ export default function HowtoHelp() {
   return (
     <section className="min-h-svh max-w-svw md:py-0 py-10 flex items-center justify-center">
       <div className="max-w-7xl w-full mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center py-5">
-        <div className="flex flex-col items-start text-left">
+        <div className="flex flex-col items-start text-left px-5">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-6 leading-tight">
             Saiba como ajudar!
           </h1>

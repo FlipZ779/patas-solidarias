@@ -33,7 +33,7 @@ export default function AboutProject() {
     <section className="bg-primary md:min-h-svh flex items-center justify-center px-6">
       <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 ">
         <div className="flex flex-col gap-16">
-          <div className=" max-h-50">
+          <div className="p-5 h-96">
             <h2 className="text-4xl font-extrabold text-gray-900 mb-6 leading-tight">
               {sections[current].title}
             </h2>
