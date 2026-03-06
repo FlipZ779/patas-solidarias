@@ -46,7 +46,7 @@ export default function AboutProject() {
           <div>
             <button
               onClick={prevSlide}
-              className=" absolute left-15  top-3/4 -translate-y-1/2 
+              className=" absolute left-15 md:top-3/4  top-5/6 -translate-y-1/2 
                  bg-dark text-white p-3 rounded-full 
                  shadow-lg hover:scale-110 transition"
             >
@@ -55,7 +55,7 @@ export default function AboutProject() {
 
             <button
               onClick={nextSlide}
-              className="absolute right-15 md:right-150  top-3/4 -translate-y-1/2 
+              className="absolute right-15 md:right-150  md:top-3/4  top-5/6 -translate-y-1/2 
                  bg-dark text-white p-3 rounded-full 
                  shadow-lg hover:scale-110 transition"
             >
