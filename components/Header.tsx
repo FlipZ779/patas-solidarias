@@ -48,6 +48,9 @@ export default function Header() {
           <Link onClick={()=> setIsOpen(false)} href="/como-ajudar" className="block">
             Como Ajudar
           </Link>
+          <Link onClick={()=> setIsOpen(false)} href="/arrecadacoes" className="block">
+            Arrecadações
+          </Link>
         </div>
       )}
     </header>
