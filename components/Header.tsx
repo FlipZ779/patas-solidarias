@@ -25,6 +25,9 @@ export default function Header() {
           <Link href="/como-ajudar" className="hover:scale-105 transition">
             Como Ajudar
           </Link>
+          <Link href="/arrecadacoes" className="hover:scale-105 transition">
+            Arrecadações
+          </Link>
         </nav>
 
         
